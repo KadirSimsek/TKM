@@ -1,0 +1,10 @@
+C:\Users\Kadir\source\repos\TKM\TKM\bin\Debug\TKM.exe.config
+C:\Users\Kadir\source\repos\TKM\TKM\bin\Debug\TKM.exe
+C:\Users\Kadir\source\repos\TKM\TKM\bin\Debug\TKM.pdb
+C:\Users\Kadir\source\repos\TKM\TKM\obj\Debug\TKM.csprojAssemblyReference.cache
+C:\Users\Kadir\source\repos\TKM\TKM\obj\Debug\TKM.Form1.resources
+C:\Users\Kadir\source\repos\TKM\TKM\obj\Debug\TKM.Properties.Resources.resources
+C:\Users\Kadir\source\repos\TKM\TKM\obj\Debug\TKM.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\TKM\TKM\obj\Debug\TKM.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\TKM\TKM\obj\Debug\TKM.exe
+C:\Users\Kadir\source\repos\TKM\TKM\obj\Debug\TKM.pdb
